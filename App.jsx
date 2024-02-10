@@ -4,9 +4,9 @@ import AppNavigation from './src/navigation'
 
 const App = () => {
   return (
-    // <ScrollView className=''>
+    
       <AppNavigation />
-    // </ScrollView>
+    
   )
 }
 
