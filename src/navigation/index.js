@@ -6,8 +6,7 @@ import Home from '../screens/Home'
 
 
 const AppNavigation = () => {
-  const Stack = createNativeStackNavigator();
-//   const Tab = createMaterialTopTabNavigator();
+  const Stack = createNativeStackNavigator()
 
   return (
     <NavigationContainer >
